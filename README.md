@@ -1,10 +1,15 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/chrislacorte/chrislacorte/main/banner.png" alt="Chris Lacorte — Designer & Builder with Cursor" width="100%" />
+
 # Hi, I'm Chris 👋
 
 **Designer & Builder** — I turn ideas into working prototypes with Cursor, without a traditional coding background.
 
 Built with **Cursor** · Web apps · Mobile prototypes · Games · Video tools · AI experiments
+
+[![VoidTube](https://img.shields.io/badge/Live-VoidTube-111?style=for-the-badge)](https://voidtube.pages.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-red?style=for-the-badge)](YOUR-YOUTUBE-LINK)
 
 </div>
 
@@ -12,18 +17,18 @@ Built with **Cursor** · Web apps · Mobile prototypes · Games · Video tools �
 
 ## What I love building
 
-From **Adobe Premiere Pro–style editors** and **hand-tracking games** to **AI voice apps** and **legal-tech tools** — Cursor lets me explore without limits.
+What I love about Cursor: there are **no real boundaries**. I've gone from **Adobe Premiere Pro–style editors** and **hand-tracking games** to **AI voice apps** and **legal-tech tools** — all in one workspace.
 
 | Project | What it does | Link |
 |---|---|---|
-| **VoidTube** | Distraction-free YouTube learning canvas with transcripts & focus mode | [voidtube.pages.dev](https://voidtube.pages.dev) |
-| **The Playlist** | Voice-first AI playlist DJ — talk to an agent, get custom music | [Repo](https://github.com/chrislacorte/the-playlist) |
-| **Gesetzefix** | Laws explained simply — with kid mode & normal mode | [Repo](https://github.com/chrislacorte/gesetzefix) |
-| **LibrarySearch** | Find public libraries across DACH for working — maps, hours, WiFi | [Repo](https://github.com/chrislacorte/library-search) |
-| **Design Agent Lab** | Cursor Cloud Agents for repeatable design systems & showcases | [Repo](https://github.com/chrislacorte/design-agent-lab) |
-| **Sign Language Game** | Interactive sign language learning game | [Repo](https://github.com/chrislacorte/signlanguagegame) |
-| **Img2Three.js** | Turn reference images into 3D scenes with Three.js | [Repo](https://github.com/chrislacorte/img2threejs) |
-| **Remotion Editor** | Video editing experiments with Remotion & node-based workflows | [Repo](https://github.com/chrislacorte/remotion-editor) |
+| **VoidTube** | Distraction-free YouTube learning canvas with transcripts & focus mode | [Live Demo](https://voidtube.pages.dev) · [Code](https://github.com/chrislacorte/voidtube) |
+| **The Playlist** | Voice-first AI playlist DJ — talk to an agent, get custom music | [Code](https://github.com/chrislacorte/the-playlist) |
+| **Gesetzefix** | Laws explained simply — with kid mode & normal mode | [Code](https://github.com/chrislacorte/gesetzefix) |
+| **LibrarySearch** | Find public libraries across DACH for working — maps, hours, WiFi | [Code](https://github.com/chrislacorte/library-search) |
+| **Design Agent Lab** | Cursor Cloud Agents for repeatable design systems & showcases | [Code](https://github.com/chrislacorte/design-agent-lab) |
+| **Remotion Editor** | Video editing experiments with Remotion & node-based workflows | [Code](https://github.com/chrislacorte/remotion-editor) |
+| **Img2Three.js** | Turn reference images into interactive 3D scenes | [Code](https://github.com/chrislacorte/img2threejs) |
+| **Sign Language Game** | Interactive sign language learning game | [Code](https://github.com/chrislacorte/signlanguagegame) |
 
 ---
 
