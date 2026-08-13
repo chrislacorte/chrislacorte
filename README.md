@@ -8,6 +8,7 @@ Built with **Cursor** · Web apps · Games · AI experiments
 
 [![VoidTube](https://img.shields.io/badge/Live-VoidTube-111?style=for-the-badge)](https://voidtube.pages.dev)
 [![MoveMore Games](https://img.shields.io/badge/Live-MoveMore_Games-111?style=for-the-badge)](https://movemore-games.pages.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-@bauenmitki-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bauenmitki)
 
 </div>
 
