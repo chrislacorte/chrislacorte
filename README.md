@@ -29,7 +29,7 @@ Built with **Cursor** · Web apps · Games · AI experiments
 
 - ☕ **4× Cursor Café** visits in Germany — talks, demos & community exchange
 - 🎤 Demoed prototypes at **Cursor Café Stuttgart** as a non-technical builder
-- 🇩🇪 **German YouTube tutorials** for designers & beginners getting started with Cursor
+- 🇩🇪 **German YouTube tutorials** for designers & beginners — [@bauenmitki](https://www.youtube.com/@bauenmitki)
 - 🔌 Working on **Cursor plugins & skills** for non-technical people
 
 ---
