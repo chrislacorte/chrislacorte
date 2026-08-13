@@ -1,34 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chrislacorte/chrislacorte/main/banner.png" alt="Chris Lacorte — Designer & Builder with Cursor" width="100%" />
-
 # Hi, I'm Chris 👋
 
 **Designer & Builder** — I turn ideas into working prototypes with Cursor, without a traditional coding background.
 
-Built with **Cursor** · Web apps · Mobile prototypes · Games · Video tools · AI experiments
+Built with **Cursor** · Web apps · Games · AI experiments
 
 [![VoidTube](https://img.shields.io/badge/Live-VoidTube-111?style=for-the-badge)](https://voidtube.pages.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-red?style=for-the-badge)](YOUR-YOUTUBE-LINK)
+[![MoveMore Games](https://img.shields.io/badge/Live-MoveMore_Games-111?style=for-the-badge)](https://movemore-games.pages.dev)
 
 </div>
 
 ---
 
-## What I love building
-
-What I love about Cursor: there are **no real boundaries**. I've gone from **Adobe Premiere Pro–style editors** and **hand-tracking games** to **AI voice apps** and **legal-tech tools** — all in one workspace.
+## Featured projects
 
 | Project | What it does | Link |
 |---|---|---|
 | **VoidTube** | Distraction-free YouTube learning canvas with transcripts & focus mode | [Live Demo](https://voidtube.pages.dev) · [Code](https://github.com/chrislacorte/voidtube) |
+| **MoveMore Games** | Motion-controlled webcam games — hand tracking, no controller needed | [Live Demo](https://movemore-games.pages.dev) · [Code](https://github.com/chrislacorte/movemore-games) |
 | **The Playlist** | Voice-first AI playlist DJ — talk to an agent, get custom music | [Code](https://github.com/chrislacorte/the-playlist) |
-| **Gesetzefix** | Laws explained simply — with kid mode & normal mode | [Code](https://github.com/chrislacorte/gesetzefix) |
-| **LibrarySearch** | Find public libraries across DACH for working — maps, hours, WiFi | [Code](https://github.com/chrislacorte/library-search) |
 | **Design Agent Lab** | Cursor Cloud Agents for repeatable design systems & showcases | [Code](https://github.com/chrislacorte/design-agent-lab) |
-| **Remotion Editor** | Video editing experiments with Remotion & node-based workflows | [Code](https://github.com/chrislacorte/remotion-editor) |
-| **Img2Three.js** | Turn reference images into interactive 3D scenes | [Code](https://github.com/chrislacorte/img2threejs) |
-| **Sign Language Game** | Interactive sign language learning game | [Code](https://github.com/chrislacorte/signlanguagegame) |
 
 ---
 
@@ -43,7 +35,7 @@ What I love about Cursor: there are **no real boundaries**. I've gone from **Ado
 
 ## Stack I reach for
 
-`Cursor` · `Next.js` · `React` · `Three.js` · `Cloudflare` · `ElevenLabs` · `MediaPipe` · `Remotion`
+`Cursor` · `Next.js` · `React` · `Three.js` · `Cloudflare` · `ElevenLabs` · `MediaPipe`
 
 ---
 
